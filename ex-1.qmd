@@ -5,4 +5,4 @@ format: html
 editor: visual
 ---
 
-Addin a line
+Adding a new line
