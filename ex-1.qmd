@@ -5,7 +5,11 @@ format: html
 editor: visual
 ---
 
+<<<<<<< HEAD
 Addin a line
 
 
 here to modify again
+=======
+Adding a new line
+>>>>>>> test
